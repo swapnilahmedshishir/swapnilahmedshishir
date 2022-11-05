@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react js 
 - 💞️ I’m looking to collaborate on expert developer
 - 📫 How to reach me ...
-<h1>nice name</h1>
+<h1>Shishir</h1>
 
 <!---
 swapnilahmedshishir/swapnilahmedshishir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
