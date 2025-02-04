@@ -105,7 +105,10 @@ Experienced Web Developer with over four years of expertise in designing and dev
   
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilahmedshishir" alt="swapnilahmedshishir" /></p>
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=swapnilahmedshishir" alt="swapnilahmedshishir" />
+</p>
+
 
 </br>
 
