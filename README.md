@@ -104,6 +104,9 @@ Experienced Web Developer with over four years of expertise in designing and dev
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilahmedshishir&show_icons=true&locale=en" alt="swapnilahmedshishir" /></p>
   
 <br/>
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=swapnilahmedshishir" alt="swapnilahmedshishir" />
+</p>
 
 <a href="https://streak-stats.demolab.com/?user=swapnilahmedshishir" target="_blank">
   <img src="https://streak-stats.demolab.com/?user=swapnilahmedshishir" alt="GitHub Streak Stats">
