@@ -96,22 +96,18 @@ Experienced Web Developer with over four years of expertise in designing and dev
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="left">
-  <a href="https://github.com/swapnilahmedshishir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilahmedshishir&langs_count=10&title_color=a855f7&text_color=000&icon_color=000&bg_color=fffff&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/swapnilahmedshishir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilahmedshishir&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="Top Languages" /></a>
 </p>
 
 <br/>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilahmedshishir&show_icons=true&locale=en" alt="swapnilahmedshishir" /></p>
+  <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilahmedshishir&show_icons=true&locale=en&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="swapnilahmedshishir" /></p>
   
 <br/>
-<p>
-  <a href="https://streak-stats.demolab.com/?user=swapnilahmedshishir" target="_blank">
-  <img align="center" src="https://streak-stats.demolab.com/?user=swapnilahmedshishir" alt="swapnilahmedshishir">
-</a>
+
+<p align="left">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=swapnilahmedshishir&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt='swapnilahmedshishir />
 </p>
-
-
-
 
 </br>
 
